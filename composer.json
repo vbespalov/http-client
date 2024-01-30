@@ -18,5 +18,6 @@
         "src"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
